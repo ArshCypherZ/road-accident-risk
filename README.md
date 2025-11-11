@@ -1,6 +1,7 @@
 # Kaggle: Road Accident Risk Prediction (Playground S5E10)
 
 This repository contains my solution for the Kaggle Playground Series (S5E10) competition on road accident risk prediction. My final approach achieved a score of **0.05551**. (Rank 619/4083 on private leaderboard, 602/4083 on public leaderboard).
+Link to the competition: https://www.kaggle.com/competitions/playground-series-s5e10/
 
 ## Overview
 
